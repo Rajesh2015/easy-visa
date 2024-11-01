@@ -1,5 +1,5 @@
 # Easy Visa (Visa Application Analysis and Classification)
-https://www.kaggle.com/code/mariyamalshatta/easy-visa-ensemble-techniques
+https://www.kaggle.com
 
 ## Overview
 
